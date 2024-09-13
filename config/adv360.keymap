@@ -64,7 +64,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none       &trans         &trans    &trans    &trans    &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none       &trans         &trans    &trans    &trans    &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                       &trans         &trans    &trans    &trans    &trans   &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                    &kp MUTE   &trans    &trans    &trans   &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                    &kp LEFT    &trans    &trans    &trans   &trans
             >;
         };
 
